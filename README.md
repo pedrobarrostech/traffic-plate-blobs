@@ -1,1 +1,3 @@
-# traffic-plate-blobs
+# Traffic Plate Blobs
+
+Binary blobs of traffic plate.
