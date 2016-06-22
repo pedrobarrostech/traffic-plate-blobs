@@ -1,4 +1,4 @@
 # Traffic Plate Blobs
 
-Binary blobs of traffic plate used in my Term Papper.
+Binary blobs of traffic plate used in my term papper.
 
